@@ -22,3 +22,6 @@ La aplicación web al iniciarse deberá visualizar una lista con los nombres de 
 
 Usted dispone de 03:00h para llevar a cabo esta prueba. Tiene total libertad para 
 realizar búsquedas en Google de ser necesario.
+
+#### Consideraciones
+Se evaluará la escritura de un código limpio, reutilizable, manejo de errores, además del funcionamiento del sitio.
