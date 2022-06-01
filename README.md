@@ -6,7 +6,7 @@ Bienvenid@ a la prueba técnica que hemos diseñado para los postulantes al carg
 *Una vez desarrollada la prueba por favor subir tu código a un repositorio remoto (Github, Gitlab, Bitbucket, etc), y enviarnos el enlace al correo jsalazar@links.com.ec donde deben incluirse todas las instrucciones para que podamos ejecutar tu trabajo de manera local y hacer las respectivas revisiones.*
 
 #### Requerimientos técnicos: ####
-**El sitio debe estar desarrollado en React V17 o superior con Redux 4.0.5**
+**El sitio debe estar desarrollado en React V17 o superior con Redux 4.0.5, TypeScript**
 
 En caso de preguntas dirigete a: *jsalazar@links.com.ec*, usando el asunto [Frontend-Web-Test]
 
